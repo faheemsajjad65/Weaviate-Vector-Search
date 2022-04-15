@@ -1,0 +1,837 @@
+[
+    {
+        "studyId":"ST001",
+        "studyName":"My Learning Curve",
+        "studyDescription":"Understanding the experiences of students prepping for competitive exams online",
+        "tags":["Covid Context","Online Learning","Mentorship","Test Prep","Millanials","Mental Health","Gen Z"],
+        "interestAreas":["Education","Technology","Fitness and Wellbeing","People"],
+        "studyTranscripts":[
+            {
+                "transcriptId":"PP001_ST001_T1",
+                "transcriptDate":"24/6/2021",
+                "nuggets": [
+                    {
+                        "question": "What is your primary motivation to do your MBA?",
+                        "answer": "Okay, the answer will be in two parts. First thing is very simple. Nobody has ever done that. And I am the eldest kid in my household. I just want to do something that may come up for all the younger kids who are going to come. Secondly, I feel like I want to do it as a payback to my parents’ struggle, and efforts, and sacrifices they have made throughout the years bringing me up. So I think that is sufficient enough because it’s never been done. So I think that I can make the benchmark.",
+                        "order": 1,
+                        "codes":["JTBD"]
+                    },
+                    {
+                        "question": "Why do you feel this responsibility to your parents?",
+                        "answer": "I was an eighth, not very young, but also not very old. But I- I could make sense of it. He (my father) said, I don’t want a son. If there’s anything they can achieve, my daughters will do it. I don’t want to make a remark as though only sons can do something in life. So it kind of made a mark in my head from that day. I felt like this is the kind of payback in whichever potential I can do, in whichever capacity I can do. I think it’s very basic, but I think that is the explanation for all the answers I’m giving.Now the entire family says that they (my parents) have spoiled me and my sister, like even sons are not given that treatment. My parents have always been very supportive.",
+                        "order": 2,
+                        "codes":["Influencers & Guides"]
+                    },
+                    {
+                        "question": "So let’s talk about your transition from offline to online. As a student, how do you feel about the shift from offline to online classes during Covid?",
+                        "answer": "I think there’s one advantage. Most people say that they cannot have that one-to-one interaction, physical presence. But now I feel like things are going to be this way for quite some time. I think it gives us more time. It saves us from travelling and it saves us a lot of peer pressure; unnecessary negativity that surrounds us. I think it’s going great. It also has some inconveniences but I think now I’m kind of okay with it. Like sitting in a room and only focusing on what I want to do. I think I’m pretty okay with that.",
+                        "order": 3,
+                        "codes":["Benefits","Emotions & Affects"]
+                    },
+                    {
+                        "question": "What do you think about the online teaching that you’ve experienced so far? ",
+                        "answer": "Like since last time, there has been a slight change in my schedule because I have joined Quantifiers. I think, just a week after we had a conversation, and now I'm under the mentorship of Sahil Arora and his excellent staff. Apart from this, I have signed up with IMS and TIME, but I'm not doing video lectures with them. I have just taken the mock test series, like with Board B Institute's and apart from this I also have Hitbullseye for which I registered in May. But like the proper live lecture sessions that squeeze timing and everything, that is happening. It's because of Quantifiers and the like mentorship of Quantifiers… when I was giving the assignments and everything.",
+                        "order": 4,
+                        "codes":["Benefits"]
+                    },
+                    {
+                        "question": "You’re currently enrolled at 4 different institutions. What’s the reason?",
+                        "answer": "Yes, a lot of variety. Okay, a lot of content and a lot of exposure. Like, you come across a lot of questions, like you cannot be dependent on one institute for everything. I feel like it does– it makes me more like, work hard every day. Say, that if a certain question comes from a different group, and I feel like Oh, I need to solve this. I need to have the consistency that whatever it is, at the end of the day, I need to put in that effort that I can do it. The CAT paper is not? How do I say this? It’s like, you don’t have a syllabus for CAT. Like you have to do everything instead, you don’t know whether you have done everything or not.",
+                        "order": 5,
+                        "codes":["Purchase/Action Milestone","Benefits"]
+                    },
+                    {
+                        "question": "What do you feel while doing these assignments, quizzes, and mock tests?",
+                        "answer": "It is exhausting and time-consuming. And also, at times you feel like oh, like for example, I have to do one assignment, I have done it. And then, as soon as I finish it, I see that there’s a scheduled quiz and I have to do that also. So after being totally drained for three hours, and then in 15 minutes, you get to know that you have to finish a quiz also. Whether it is like a very small quiz, like 15 questions, in those 15 minutes, I feel like whether I should do it, whether I should not do it. Like a lot of thought processes. You can skip it. It’s not compulsory. For example, the quiz happened on Facebook. It’s like they will schedule a time. Like exactly at 11:45. They will post 15 questions and if you know the correct answer, if you have solved it, you just have to comment under that message or something. You just have to comment on it. And you will be done. Like your task is done. When you see like hundreds of people or 20 are answering the same option, you will know that your approach is right. And you have done the right thing. But what happens is, like you said, like in those 15 minutes time, if I know that my mind is not ready to do this, even for like, because it takes time, like 10 questions are there, but it’s going to take at least one hour. Yeah, like to be very honest. Yeah. So I can skip it. Questions are going to be there. What I can do is skip it for now and do it later.",
+                        "order": 6,
+                        "codes":["Challenges","Emotions & Affects","Workarounds"]
+                    },
+                    {
+                        "question": "Do you consider yourself to be competitive?",
+                        "answer": "I think it’s motivating and challenging at the same time that if I don’t do it (the mock tests, assignments), I won’t get an edge in my prep. And I want that. I feel like if I’m not able to make these decisions and like, have a laid back attitude in life, I think I myself, I’m digging a grave for me. Like five months later, and the result does not come in my favour. ",
+                        "order": 7,
+                        "codes":["Imagined Futures","Emotions & Affects"]
+                    },
+                    {
+                        "question": "Do you feel like you are moving closer to your goals being a part of these four platforms? ",
+                        "answer": "Yeah, I think I’m in a slow steady process. But I think I’m moving towards my goals. Two reasons. In the last year, I was not clear at all. I was not in this place. Even like CAT was, like just a month away. I felt like I was but now when I look back, I don’t think I ever was in that place. A second reason is... I... maybe I wasn’t ready for that hardcore prep. And now I am because it’s like… my like… it is something which is like maybe… I’m more serious now. Let’s just say that even after getting through everything and all the failures. I feel now I’m ready for whatever comes my way. Like no matter how hard it is, I need to get this done and I need to get through it. I think that factor was not there.",
+                        "order": 8,
+                        "codes":["Emotions & Affects"]
+                    },
+                    {
+                        "question":"Can you describe what Quantifiers is?",
+                        "answer":"Yes, yes, they don’t give you mocks as in proper full length mocks. But they give you tests. They have proper like excellent coordination and sync with the exact syllabus of CAT. I was not very sure about it. I was just in the process and taking their live demo lecture in May and June. I wasn’t sure whether I should go for it or not because they are not very popular like TIME and IMS but they are very popular among the students who have studied with them and in gaining free resources from them. So I kind of had a conversation with a few of the people who passed out from Quantifiers. They had pretty good reviews. So my schedule, like all the video lectures and all the mentorship whatever is happening, it’s all under the guidance of Quantifiers.",
+                        "order":9,
+                        "codes":["Consideration Milestone", "Influencers & Guides"]
+                    },
+                    {
+                        "question":"How would you compare your experience at Quantifiers with other institutes you’ve studied at?",
+                        "answer":"It’s been pretty good actually considering my past experiences with other institutes. It’s pretty good. He is very good at his job. It’s been like only three weeks I guess, since I’ve joined it, but I think I’ve already achieved a lot of things. I am with Hitbullseye but I have that Mock Test Series. They give Discussion Videos just like TIME and IMS on whichever mock test I get. And they kind of arrange discussion videos but like I told you, I want a one-to-one mentorship with a person I can call, tell the exact problem, and he can give me a very correct solution. Not lead me to a directionless part that again I’m over thinking.",
+                        "order":10,
+                        "codes":["Benefits", "Purchase/Action Milestone"]
+                    },
+                    {
+                        "question":"Do you find any difficulty in navigating your course Dashboard across any of the platforms?",
+                        "answer":"Well, Hitbullseye for sure is not very user-friendly in terms of how to use it, the analysis and stuff. I don’t find it very helpful. Although they have great tests and everything but like I said that their dashboard is not very helpful to me when it comes to me. There’s this analytics option. If you have ever given the mocks ever. They make this analytics bar that your DILR bar is this much, English is this much. Yeah, that’s not very helpful. I just stick to the test. I do my test. I get my score and whatever mistakes I have made, I just analyse it and I’m okay. Other than that, Hitbullseye is not very helpful to me. And I’ll just explain in terms of Quantifiers, like my experience. They are purely based on teaching the students. That’s it. They have this bar, like all the lectures are in the proper coordinated manner. And you will just like attend it and you are done with it. And all the quizzes and everything which, like happen on Facebook in that group. And apart from that, assignments periods there. That is also there. The only disappointing thing I’ve experienced like I said, it’s Hitbullseye. IMS is great. TIME is great, everything’s perfect.",
+                        "order":11,
+                        "codes":["Benefits", "Challenges"]
+                    },
+                    {
+                        "question":"Great. So let's talk about doubt-solving. When you have a doubt, where do you go first? ",
+                        "answer":"Well, the thing is, like, especially maths. There are a lot of questions that have three, four… minimum three, four approaches to it. So like the My Course Dashboard will give me one approach to it. But if I know that if this question comes in the exam on that day, I will not remember this approach. Somehow I will make a mistake in this. Like this method will not come naturally to me in that three hours time. So I try to look for another way. Like to solve that question. And then my process starts like if I'm not, if I'm not agreeing with the method the dashboard is providing me then I switch to YouTube, Google, Whatsapp. WhatsApp is like asking somebody and since sending a screenshot, 'You know how to do this question in a better and systematic way?'",
+                        "order":12,
+                        "codes":["Workarounds"]
+                    },
+                    {
+                        "question":"What do you think could help or improve your doubt-solving process?",
+                        "answer":"Sometimes I feel like if somebody can verbally explain me this, it will help me. But at times, I don't have that access. I can call someone up and do it. But like, if a stranger is explaining this to me, I cannot ask the other person now please, can you call me to tell me this? I find that brings to my negative aspect of this entire situation.",
+                        "order":13,
+                        "codes":["Challenges"]
+                    },
+                    {
+                        "question":"How do you communicate with your classmates, like the other students enrolled in TIME or IMS or Hitbullseye?",
+                        "answer":"Well, I don't interact with the people of IMS and TIME. There's these two WhatsApp groups on Quantifiers. Like I think now we have five WhatsApp groups divided into four like DLR, QA, etc. And then there's an informal group and there's another group. I am part of all of them on WhatsApp. But we, like I said, we don't talk. If there's a doubt you can post it. But less talk, communication, conversation. That does not happen. Like till now it hasn't. Maybe, like I said, if I find a person who was like-minded, like me. who is also in the CAT process, maybe then I'll do it. Otherwise, I don't think like I talk to anybody on WhatsApp.",
+                        "order":14,
+                        "codes":["Habits"]
+                    },
+                    {
+                        "question":"And so how does it make you feel when you are not able to get answers to your doubts or if it is taking time?",
+                        "answer":"In the first instance, this feels like 'Oh my God, this question is going to come. Exactly. What am I going to do?' Like, I'm going to lose three marks on that like, and then I'll feel like, oh, like I cannot do this. And like in the first instance, I feel like that. I also feel retarded at times if I'm not able to understand that one thing like in 2-3 ways. But somehow it's okay now, I have made peace with that. I know in 2-3 day's time I will get to know it. There are a few questions which you can never answer. Those questions you have to leave in the exam you. You cannot do it. Either you will solve that question or you will solve the rest of the question from the paper.",
+                        "order":15,
+                        "codes":["Emotions & Affects"]
+                    },
+                    {
+                        "question":"So Telegram, Facebook group, and YouTube are the three main resources for helping with assignments and doubt-sessions?",
+                        "answer":"Yes, they are. Because mostly, there's a lot of people that you don't know and who like they come from different fields. So like different fields, different approaches, different methods. You get to know a lot of things just by that minimum exposure. ... like, if after YouTube still, I'm not able to get it then there's a group on Telegram where I can post a screenshot there lots and lots of random strangers, sometimes they help you so much that I cannot even express. They themselves will tell you, you can do it this way, that way and you don't even have to explain anything to them. Like, you can just move on with this question in life.",
+                        "order":16,
+                        "codes":["Habits", "Workarounds"]
+                    },
+                    {
+                        "question":"What stands out about Quantifiers? ",
+                        "answer":"Well, I love Quantifiers' live lectures and all the pre-recorded lectures they are providing. And all the content I am completely in love with for now. And apart from this, I think IMS and TIME, they are pretty good at their Mock Test Series and stuff. But at times they are very demotivating because they prepare tests above the level of CAT but also at the same time, I need that. I need difficult preparation to get through it. Okay, but I do think had I not joined Quantifiers I would have told you like last time that I need that one-on-one mentorship. But now I have it.",
+                        "order":17,
+                        "codes":["Benefits", "Challenges"]
+                    },
+                    {
+                        "question":"Outside of the benefits you’ve mentioned, do you still feel there's need for additional mentorship alongside online coaching?",
+                        "answer":"Yeah, I have access to it on IMS. But right now, I am actually not able to do it because of the syllabus. I have to do it once, like before July ends. They call alumni of the network and who have like scored ninety-nine percentile. And like you said guest lectures from experts. They do organise it. They have their own sessions, like from time to time. I have done it when I did not have Quantifiers. I have done it like twice or thrice. They give their opinions and how life is and you know how it is.",
+                        "order":18,
+                        "codes":["Benefits"]
+                    },
+                    {
+                        "question":"Which one do you usually prefer out of the two– offline and online? And why? ",
+                        "answer":"Now, I'm okay with the screen time and I did more and more exposure to a lot of variety of content. I'm not dependent on anybody. I have to do everything on my own. I think I am okay with that. Now, I will prefer online mode and sitting alone and studying. That works the best.And also, people can not actually check up on you. What you are doing and how far you have come. For example, if I'm studying with my friends in a coaching centre, they will know how far I have done my assignments and how or what I'm going to do. Somehow they will sense it. Like what my strategies are going in. Like everything. Like according to the stats and according to the timetable, how far is she coming and how well she is doing.",
+                        "order":19,
+                        "codes":["Benefits"]
+                    },
+                    {
+                        "question":"What do you think is not working for you in the current setup online? ",
+                        "answer":"Well, change of mood cannot happen on my own. I have to rely on these platforms like Netflix and Prime to change my mood. Like in offline mediums, if I felt low, I could talk to a teacher personally. I could tell my friend. I could hang around, socialise for a little while, just for a change of mind. That cannot happen when I'm completely cut off from everyone and I'm just on my own. I can talk to my friends, but still it takes a lot of effort to tell them from the beginning what exactly I'm feeling and I don't know... everybody's busy in their own life. I just don't want to do that at the end of the day unless I am like, 'Listen, you have to rescue me from this.'",
+                        "order":20,
+                        "codes":["Challenges", "Imagined Futures"]
+                    },
+                    {
+                        "question":"So are you saying that in the offline mode people understand you better?",
+                        "answer":"Sad. Sometimes it makes me anxious. I also feel stressed a lot of times about not being able to express properly to my friends, like whatever is happening. But at the end of the day, I know that whenever I reached out to them and explained right from the beginning, it was just like they'd understand me. I feel a lot of emotions like… like to be very honest, what exactly happens these days, like since last time we talked. I was just getting the flow. It was just happening. It was a part of the process. But now I am in the flow. That's the change that has happened in one month. Now I get time after like, probably after one o'clock, like I get one or two hours. The entire day I'm not able to talk to anybody because either my friends are busy with their own schedule or I am busy with my own schedule. It happens. Sometimes I feel like Netflix is the partner we all have in our life and is never going to give up on you. Whether you are opening it after months. I used to say that in my first year, like, “You know what? Netflix is my boyfriend.” I have no complaint. Everything's going perfectly. I used to look at myself like, 'Are you crazy?' And now when we are in the pandemic situation, I'm like, 'See, everybody is dependent on Netflix.' So I kind of sense that yeah, I think I need to rely on it right from the beginning.",
+                        "order":21,
+                        "codes":["Challenges", "Emotions & Affects"]
+                    },
+                    {
+                        "question":"How did you sleep last night?",
+                        "answer":"I don't get good sleep these days. Something is always up with me. Like I have also had this conversation with my friends that I don't get good sleep now. That peaceful sleep you crave. I really don't get it. Yes, maybe... I'm in a place where a lot of certain things are happening around me. With me. It's not very easy to say that, oh, I am very, you know, happy in life. Very peaceful.",
+                        "order":22,
+                        "codes":["Emotions & Affects"]
+                    },
+                    {
+                        "question":"Can anything reduce this anxiety, this self-doubt for you?",
+                        "answer":"Well, like, on an educational level, everything's going perfect. But on a personal level, if I say, I think that thought process is made on our own. And I think at times, I need a comforting conversation. Okay, which helps me to reduce it. Like, I'm not so bad. I crash in bed and sleep.",
+                        "order":23,
+                        "codes":["Imagined Futures"]
+                    },
+                    {
+                        "question":"What about personal counselling.. where you can share your fears, doubts. Could that be helpful?",
+                        "answer":"I think it will be helpful. But again, I have not tried that. I am not a part of it. But I cannot place the guarantee. Because I also take a lot of time to share whatever is in my head. And I'm very comfortable with my friends. But when it comes to a random stranger or anybody, I don't know how I'm going to go about it.",
+                        "order":24,
+                        "codes":["Imagined Futures"]
+                    },
+                    {
+                        "question":"Thank you so much for answering. Is there anything else that’s on your mind?",
+                        "answer":"I would like you to add this one point somewhere. At times it is very difficult for me to explain to my parents how well I'm doing in preparation. I am also stressed because of that at times because they do know. I cannot even make them understand how well I'm doing.",
+                        "order":25,
+                        "codes":["Challenges", "Influencers & Guides"]
+                    },
+                    {
+                        "question":"Do you talk to your parents about your online experience studying?",
+                        "answer":"Yeah. They, like, both my parents come from a very– like I said, they can support me in everything. But I cannot share what is in my mind. I cannot say, \"I'm missing out on a lot of things people of my age are doing.\" And I feel... sometimes I feel like maybe I'm not doing enough. Maybe I have made the wrong choice. Like all the overthinking process right from the beginning. Eleventh and twelfth, kya subject choose kar liya? Yeh, woh. (What subjects did I choose. This that.) ",
+                        "order":26,
+                        "codes":["Emotions & Affects"]
+                    }
+                ],
+                "pals":[
+                    {
+                        "palId":"PP001"
+                    }
+                ]
+            },
+            {
+                "transcriptId":"PP0013_ST001_T2",
+                "transcriptDate":"23/6/2021",
+                "nuggets":[
+                    {
+                        "question":"What is your main goal for pursuing an MBA from ICFAI?",
+                        "answer":"My major reason, yeah you can say it was finance because a degree helps you get a better salary. But the primary reason for me doing an MBA was I thought, I have a knack for marketing. This is why I wanted to pursue MBA.",
+                        "order":1,
+                        "codes":["JTBD"]
+                    },
+                    {
+                        "question":"Do you remember an experience, an event, or anything that happened in your life that moved you to pursue an MBA?",
+                        "answer":"Yeah. Actually... Actually, what happened during my graduation years, I was working with a company. So during that time, while I was working there, there were times when I used to, you know, find solutions for the client or something which my boss, maybe he was not able to do at that point of time. But what happened when we moved forward with those ideas? It was not, you know, it could have been better. This is what I thought. Obviously, my boss appreciated the idea. You know, wherever there was scope for improvisation, he did everything. But I thought that if I go with this, if I go for MBA, probably I'll be able to get better ideas you know, and somewhere if you require a backup and things like that, that was one thing. There was one thing, when I was doing social media marketing for a client so when one incident happened that my boss by mistake, he messaged on the group that I have a headache and I'm not able to work properly. At that time, we did not have that delete for everyone feature. We had a client. So we had a social media plan for them. What we did there was we used to post one-line tips for good health. You know, Ayurvedic things and all of that. So I connected so well with it that I just thought maybe, you know, if we are doing something for the people, I messaged in the group, \"Sir, why don't you go check out our Twitter page and things like that. Maybe you will find a solution for a headache.\" So he appreciated it. He said, \"You have it in you for marketing. Maybe you should go for it.\" That really made you think okay.",
+                        "order":2,
+                        "codes":["Stimulus Milestone"]
+                    },
+                    {
+                        "question":"What sort of impact has your ex-boss had on you?",
+                        "answer":"My boss actually mentored me a lot of times. And a lot of things have still stayed with me like whenever I go, wherever I go. These things still come in mind my mind. And you know, when you when you change organizations, what happens if something stays with you? And you see a different thing at a different place. That sometimes, you know, disturbs you a little. That was his impact on me.",
+                        "order":3,
+                        "codes":["Influencers & Guides"]
+                    },
+                    {
+                        "question":"You had offline classes before COVID. How do you feel in general about the shift from offline to online? ",
+                        "answer":"My first reaction was, okay, probably I'll have one semester online. Then I'll go back to offline, be with my friends, have fun, and do all of that. Then academically... initially, nobody was serious, because everybody was trying to adapt. And faculty have had more problems compared to us. So it did not matter to them. Whether you're sitting right in front of your laptop or your phone or whatever device you're using, and studying or not. Their motive was to do things correctly.Personally, I felt it was okay for me. I did not mind that much. But yeah, it did make me a little lethargic towards studies. That was the first impact. And when the when these faculties were trying to, you know, figure out how to be effective in this way. We were becoming more lethargic. That was one of my, you know, observations at a later period. Yeah, that okay, offline was really better than online. But in in terms of transition that happened at at an early stage. I thought, chalo, it's something new. Let's try it out. What other options do we have right now?",
+                        "order":4,
+                        "codes":["Challenges"]
+                    },
+                    {
+                        "question":"How do distractions, lack of attention and concentration, and absence of discipline make you feel?",
+                        "answer":"It makes me feel like I've lost my last year of education. I've lost a lot of important lessons. Maybe, you know, I could have learned a lot of things. And I could not because of this setup, which I'm not going to blame the system or the setup that is there. It is my fault that I was not being able to concentrate or retain or focus or whatever it is. So that really, you know, makes me feel this is not right. I should I should have, you know, probably tried to study or maybe been more serious about studies. At times, I feel self critical, but I don't want to feel bad about it. I just put it on the system one time. I feel like lost my education in a way.",
+                        "order":5,
+                        "codes":["Imagined Futures"]
+                    },
+                    {
+                        "question":"Which one do you prefer (between offline and online) and why? ",
+                        "answer":"Offline because first things first: more classroom atmosphere. That is very important. Even if you don't want to study. You will anyway, pay attention for at least 2-5 minutes. If the class is of one hour. I am saying this is the worst-case scenario. If I find something interesting, I might go on and listen to the faculty for 25-30 minutes. But in online, even if you try to, there are a lot of distractions.Retention is less. Level of concentration has gone down drastically. You know, when when you went to college, you had a purpose that, okay, you have to wake up, you had a proper routine that was being followed. This is not there anymore. If I have a class at 9:30, I'll probably wake up at 9:30. Because we have five minutes of window ki bhai theek hai, you can be five minutes late. I just turned turn on the class, go freshen up, and then attend the class. Yeah, that purpose is not there. When when the class is not not that interesting, or something like that. But yeah, that is one thing that is also missing. Discipline is missing.",
+                        "order":6,
+                        "codes":["Benefits", "Challenges"]
+                    },
+                    {
+                        "question":"What do you think will make the teaching experience better?",
+                        "answer":"Personal connect that that should be there. Like if the teacher asks you at the end of the class, “Pratik, did you understand what we studied today?” What motivates you to, you know, “Oh, I'll do it this way. But next thing? I'll make sure I do.” Even if it is generally asking things like, “Has everyone understood?” That that that doesn't happen, even if that happens that that has no impact. Because the teacher might ask, “Have you guys Understood?” So probably two or three people that were active in the class, they learn mute and say, “Oh, yes, ma'am Yes. I have this doubt.”",
+                        "order":7,
+                        "codes":["Imagined Futures"]
+                    },
+                    {
+                        "question":"What are your thoughts on additional mentorship through workshops or guest lectures by experts?",
+                        "answer":"So we have guest lectures and everything for every subject that we have. Online, also. So we have people coming over on Zoom from different places. The good thing that has happened is suppose a person who lives in Calcutta, we can invite him over for a lecture as well. So that's, that is one thing, one good thing that happened to us, okay. And during the guest lecture, you need to be active, because that shows what the college is doing. For the reputation of the college. We are asked. We are told to ask a lot of questions. And sometimes even the faculty selects the questions beforehand. “Don't ask stupid questions.” Just a fun fact. So other than that, individual mentorship… ",
+                        "order":8,
+                        "codes":["Benefits", "Workarounds"]
+                    },
+                    {
+                        "question":"Do you think that it is easier to connect and approach the teachers with problems in the offline mode?",
+                        "answer":"That is 100% true, by the way. They just figured it out: “Okay, this child is not able to understand. Let me just ask some questions, or let me just… you know, ask what is the problem?” That is definitely there offline.",
+                        "order":9,
+                        "codes":["Imagined Futures"]
+                    },
+                    {
+                        "question":"What happens if you don’t get the right answer or you can’t understand something or it takes time?",
+                        "answer":"Pretty much till now I've been able to wait. Still, if something like that happened, I'd definitely ask one of my friends. They don't know I lost the top of the class somewhere or the other I'll get help.If I'm trying to find the answer, I made sure I get done somewhere or the other. You know, ask somebody the faculty is not available. Ask somebody to get me in touch with the faculty. Suppose I know some faculty from my past semester. Probably, call her or him up, “Can you please help me with this?” This is what I would do, but this has not happened. I'm just telling you hypothetically. This is one of my options.The first is Google. Second is I would say probably a friend. Okay. The friend doesn't. By chance, if the friend is not able to understand I will directly contact the faculty.",
+                        "order":10,
+                        "codes":["Workarounds"]
+                    },
+                    {
+                        "question":"Is there anything you find challenging about your student dashboard portal? Not useful or unnecessary like a time-waster there?",
+                        "answer":"Yeah, sometimes what happens… Suppose I have to find something about a chapter or about a topic in a chapter. I have to go through a lot of chapters to see “Okay, it was during this chapter.” If I have to find a topic per se, so, if there was some search option that was available that you can directly go and find it out, that could have been better, but otherwise, no. Also, my exams are coming so the portal is blocked. That is why I could not share sharing any problem at all.",
+                        "order":11,
+                        "codes":["Challenges"]
+                    },
+                    {
+                        "question":"Is anything else that you wish for on the platform offered other than a search option? ",
+                        "answer":"I think I think they did a good job with the platform was an amazing platform. And you could find anything and everything you want. So there's one thing that if we wanted to find something related to the dapper there were few links that were available. We could have had more options. More resources for a particular topic.",
+                        "order":12,
+                        "codes":["Imagined Futures"]
+                    },
+                    {
+                        "question":"How does your learning get impact when you feel like you cannot find something regarding a specific topic?",
+                        "answer":"It makes me feel I'm wasting a lot of time. I should I should probably go and you know, search it on Google and find things. But the thing is sometimes the faculty's put a lot of good links there a good a lot of good videos. Yeah. Yeah. So yeah, yeah, but it could have been better. It could have saved a lot of money to me. Yeah. moments, especially when you're in the moment of learning something. Do you feel the flow at times? Because you have to like, Oh, yeah, I was about to say that it actually breaks the flow. Sometimes. The focus is gone. You're looking for it. Arre nahi mil raha, nahi mil raha. Yahan bhi nahi, wahan bhi nahi. Chalo theek hai. Baad mein dekhte hain. (Trans.: Can’t find it. Can’t figure it out. Neither here, nor there. It’s fine, whatever. I’ll come to it later.)",
+                        "order":13,
+                        "codes":["Challenges"]
+                    },
+                    {
+                        "question":"Do you think mobility is missing?",
+                        "answer":"Kind of.. yes. Can say that mobility is missing. Okay, but the freedom to ask questions whenever you want is missing. Actually, the thing is that banter that we had earlier that is completely missing. Otherwise, what is happening if you just ask questions, if this is happening or not happening, sometimes people don't even care to us.So basically that “Aur batao?” (Trans.: What’s new?) kind of thing that has just vanished completely. You just talk to this set of friends that you that were there with you throughout. That was there with you all the time. So when you move in and around the college, you find a lot of people. When you go to their house, like talking over chai, then you start asking questions. So maybe chai session turns into a brainstorming session.",
+                        "order":14,
+                        "codes":["Challenges"]
+                    },
+                    {
+                        "question":"What are you feeling as your exams come closer? Is there anything that you think can make your prep better?",
+                        "answer":"I think I had a better sense of humour before COVID a sense of humour is gone. Because even when you talk to your friends now: “How's life? How're things? What’s happening at your place? Everything is well yeah, there's a little bit of worship that is happening around, why this is happening, that is happening…” This is it. But when we were there together… See I’m from Lucknow and I was living in Pune. So my friends were my family. We’d do a lot of things. Yeah. Just lying down on the bed with your friends doing nothing. We actually had had a good time.The problem was we were a set of lazy people. So we thought, theek hai. It’s alright. We all became friends in the first semester. So by the time we became good friends, first semester was over. Second semester came, it was a little hectic, then we said theek hai we will do things in the third-fourth semester when there is no pressure. And, you know, let's just hang out at a friend's place, maybe we'll bike, we'll hang out, you know, go. places that are near to us. We went outside, but that happened, like one to two months after. You know, we could have had a lot of fun here. We will lazy. Theek hai kar lenge, kar lenge. (Trans.: It’s alright, we’ll do it eventually.) We still have a lot of time. Nothing happened.",
+                        "order":15,
+                        "codes":[]
+                    },
+                    {
+                        "question":"How would you rate your online classes in helping you achieve your goal? ",
+                        "answer":"Two out of ten. Yeah. Because I know I would have done way better. I would have been, you know, in a greater position. But, this is not what I wanted with my studies. No, it was definitely my last year. I wanted to have fun, you know, have fun with my friends. Have fun with this carefree phase that is about to end. This is what I've been told. [Laughs] But there's one thing that theek hai bhai (Trans.: Ok, man.) whatever I'm studying that is important too. Due to this online thing, where we are not able to focus or concentrate and XYZ, our studies suffered a lot.",
+                        "order":16,
+                        "codes":["Challenges", "Imagined Futures"]
+                    }
+                ],
+                "pals":[
+                    {
+                        "palId":"PP013"
+                    }
+                ]
+            },
+            {
+                "transcriptId":"PP0011_ST001_T3",
+                "transcriptDate":"21/6/2021",
+                "nuggets":[
+                    {
+                        "question":"How did you decide to do SSC? Was that your original plan?",
+                        "answer":"Actually, just to make a balance. What I told my parents is that I'll prepare for SSC but together with it, I just want to do my bachelor's, master's and everything I want, like, I will be doing that too. And on the side, I will be preparing for SSC as well.",
+                        "order":1,
+                        "codes":["JTBD"]
+                    },
+                    {
+                        "question":"Is there an event or personal experience that inspired you to pursue this goal?",
+                        "answer":"Actually, since childhood, I was just too much into genetics. And yeah, when I was in ninth class, I used to watch a show on History TV18. That was Ancient Aliens. Yeah, and actually there... once there was an episode that they were just digging out some money and doing some tests on it. And then I wanted to go into genetics and this stuff.I just love Ancient Aliens. I love actually... everything about aliens and I love astronomy and everything.",
+                        "order":2,
+                        "codes":["Stimulus Milestone"]
+                    },
+                    {
+                        "question":"How do you feel about the shift from online to offline class?",
+                        "answer":"Oh, that's quite fine. We can't do anything to shift it back. Until this pandemic goes off. Initially, it was actually. Yeah, the live classes feel good. But there is some different energy when we are attending the offline classes, right?",
+                        "order":3,
+                        "codes":["Challenges", "Emotions & Affects"]
+                    },
+                    {
+                        "question":"What do you prefer, like all offline and online? What's your personal choice?",
+                        "answer":"Offline. Yeah, and it's even quite fun. You know when all the classmates are just together. Actually, when you have classmates, you have like, hundreds of questions, hundreds of different ideas. So it's like, in context, you can't say, but you're having the discussions and the focus part of the studies, both.In offline classes, you can have some practical ways of understanding. Suppose we are just talking about 3D shapes and all. In online class what will our teacher (show)... (he'll) just suggest... When we are in the classroom he'll take up some pens or whatever from the student ... and give some examples like that.",
+                        "order":4,
+                        "codes":["Benefits"]
+                    },
+                    {
+                        "question":"What do you think is not working for you in the online setup?",
+                        "answer":"Okay, actually, the thing with me since I was a kid, is I have like, you teach me one topic, a small one topic, and I'll put up like, 500 questions. 500 doubts. And in online classes, I can't do it. So it's like quite irritating.In the offline class, you can just go to some library and just get some book. And then you can ask the teacher, that teacher can read the particular part of the book and then explain you but... in online, what you can do is like, just sit and watch.",
+                        "order":5,
+                        "codes":["Challenges"]
+                    },
+                    {
+                        "question":"You mentioned you go to Khan Academy. What makes you go to platforms like Khan Academy?",
+                        "answer":"Actually, there are a few parts of like, a particular topic is has like hundreds of parts. So sometimes a teacher might miss out something or he... uh, there are different ways a person can teach. Yeah, so like, my teacher has taught us in one particular method, then I might find some other simple method at the other platform. So for better understanding on the topic.You might get something new to discover in that particular topic. If you go for some other platforms.",
+                        "order":6,
+                        "codes":["Workarounds"]
+                    },
+                    {
+                        "question":"How does not getting alternative solutions or alternative perspectives makes you feel?",
+                        "answer":"Of course, it's like you can't sleep at night you will just - of course you will sleep but before sleeping for two hours you will just revolve around the topic.What I do is call on the teacher like for 100 times until, until I get satisfied with the answer.",
+                        "order":7,
+                        "codes":["Challenges", "Emotions & Affects", "Workarounds"]
+                    },
+                    {
+                        "question":"What do you like about Khan Academy?",
+                        "answer":"Actually, Khan Academy is the only site I feel reliable on. Actually the matter of trust and then the teachers, they teach it every topic well, and they take everything from like the lowest possible level, okay. They just teach you from the basics to everything.",
+                        "order":8,
+                        "codes":["Benefits"]
+                    },
+                    {
+                        "question":"What do you like about the Textbook application?",
+                        "answer":"What I do is just enter into the mock tests. Do the test, like, finish it, and like, you get the score afterwards. Like, yeah, just after exiting the test, you get the score. So you can know, if it's all going good, or how much you need to work... I don't explore much much over there. I just use that application for the mock test.",
+                        "order":9,
+                        "codes":["Workarounds"]
+                    },
+                    {
+                        "question":"How do you feel about the possibility of guest lectures?",
+                        "answer":"If we are going to attend some class of the expert of course will be like, so we would be so excited. And we would even prepare everything related to that subject. Just so that in case he asked us or if we have any doubt, you know, so it would be just good. Like, at least you will be focused one hour in that particular subject, and you will just prepare something here. And of course, it could be quite motivating if you talk to some expert.",
+                        "order":10,
+                        "codes":["Emotions & Affects"]
+                    },
+                    {
+                        "question":"Do you feel the need for additional mentorship? ",
+                        "answer":"Of course, there is the need, but arranging everything online, it isn't that effective. In school or wherever we organize exhibitions or competition or anything. If you organize it online, it won't be that effective. Suppose this is a science exhibition here and you have made some project or some model or anything, and online, you are explaining it. And even if you understand what is being said, you won't understand what exactly is going on with inside that particular model, right? When you are standing in front of it, you will understand it better.",
+                        "order":11,
+                        "codes":["Challenges"]
+                    },
+                    {
+                        "question":"How do you feel when exploring new perspectives around a topic?",
+                        "answer":"It makes me feel so peaceful and wonderful, but people around me get like so agitated. They're like, 'Focus on the syllabus, focus on the studies. Why you're just revolving around?'",
+                        "order":12,
+                        "codes":["Emotions & Affects"]
+                    },
+                    {
+                        "question":"How do you respond to stressful situations like a difficult assignment or not knowing answers in class?",
+                        "answer":"Actually, you know, we are quite liable at that time. You can just say, if you do it or not do it, nothing's gonna happen. Online teachers... he's just on the screen, he'll just shout. He can't do anything else. Or not do it, it's like, all onto you. Of course, if you do that, it will be helpful for you. But sometimes, when we are just busy with some other stuff, I go on to miss that. If the teacher will like say, 'Show me your notebook!' What will you do then? In front of the class, if they're scolding, and we're sitting between them, like in place of offline, of course, you will feel embarrassing, but here like, if teachers just scolding you online, you can just leave the class for two minutes.",
+                        "order":13,
+                        "codes":["Emotions & Affects"]
+                    },
+                    {
+                        "question":"What are your thoughts around the interaction that you have with your classmates and what do you wish could be different? ",
+                        "answer":"Okay, I will give you the answer which goes for both the questions. If that conversation was offline that would be much better you know like then you can discuss everything possible. On WhatsApp, of course, you can just... it is too much time consuming like typing the question.. this, that, everything. Yeah, like if we are discussing it offline, that would be of course better.",
+                        "order":14,
+                        "codes":["Challenges"]
+                    },
+                    {
+                        "question":"How do you feel about these social media student groups (Facebook, Whatsapp, Telegram, etc.) in your learning process? ",
+                        "answer":"Actually, they're much better than the classmates one. Many groups for different different subjects which are not of my Stream for that as well like Psychology. Yeah, actually. When you have group members from different different places so they'll just share different ideas, different thoughts and different parts what they have learned so you can learn that as well.",
+                        "order":15,
+                        "codes":["Benefits"]
+                    }
+                ],
+                "pals":[
+                    {
+                        "palId":"PP011"
+                    }
+                ]
+            },
+            {
+                "transcriptId":"PP009_ST001_T4",
+                "transcriptDate":"22/6/2021",
+                "nuggets":[
+                    {
+                        "question":"Can you share your primary motivation for sitting for the UPSC exam?",
+                        "answer":"Primary is to work for the underprivileged sector, per se, specifically, for women, okay. The family thing is secondary, because I am independent enough to take my decision, like, I have to do something for myself to be independent, and to be strong enough to you know.Even if I set up an NGO, I would need the government's permission and things like that. And we just say that the system is kharab (Trans.: flawed) and things are very messed up over there. So why don't be a part of system and just fix it? And then help the system along with the people altogether?",
+                        "order":1,
+                        "codes":["Imagined Futures", "JTBD"]
+                    },
+                    {
+                        "question":"Is there an event or experience that inspired you to work for underprivileged sections?",
+                        "answer":"Yes. While I was in my college days, only the Bachelor of Science in my starting of my second year, what happened was our college classes to you know, teach underprivileged students. So we had a school... elementary school, which our college adopted way back. So they asked us to go for NSS over there, over there. I taught those kids and that was a moment. Right. I understood. That was the time when I got in touch with underprivileged sector person. Because before that, I was in my schooling time, or even in the gala times of my college. So that was an eye-opening thing for me.",
+                        "order":2,
+                        "codes":["Influencers & Guides", "Stimulus Milestone"]
+                    },
+                    {
+                        "question":"Would you agree with the following statement: “You need to have the power to do good things, and money also. Just the vision is not enough to do good things.”?",
+                        "answer":"We need power to you know, be on the.... other side of the boat such power is very much needed. So that was the point why I chose UPSC. Other than that there were many competitive examinations, and like, we have other departments as well. But UPSC is something which would not just help us grow on a societal point of view, but on an individual level. Okay, one needs to be practical, by being emotional as well. So one cannot just be an emotional path and we just leave away everything behind.",
+                        "order":3,
+                        "codes":["Consideration Milestone", "Habits"]
+                    },
+                    {
+                        "question":"So how do you in general feel about the shift from offline to online as a student? ",
+                        "answer":"I would say that it was not a major shift for me, because I have always been a self-study kind of person. So since the very beginning, I was dependent on YouTube lectures to clear my concept. As early as in fifth standard. I started to look at the video concepts and learning from there, because once I get the lectures like offline lectures, well, then I prefer going to the textbook and then go into the YouTube and then researching things. And that's your process. Yes, that's my process. So that was not a major transition for me. Even today... like, I'm pursuing my Master’s as job and UPSC. So most of my batch mates are like, 'Yaar nahi samajh aa raha teachers kya padha rahein hain.' (Trans.: Bro, I can’t understand what the teachers are on about.) But like that does not make any difference. Like, if you want to study, you can study from anywhere. It totally depends on you. Whether you want to work or not.",
+                        "order":4,
+                        "codes":["Habits"]
+                    },
+                    {
+                        "question":"You mentioned you go to ClearIAS.com to do your assignments. Is there anywhere else you go for help with your assignments?",
+                        "answer":"I go to various. I just Google the topic. And then I go to some authentic site, and even the Wikipedia for that matter. Because we get ample of knowledge over there. And then I pick like whatsoever is relevant to my subject matter, because at times, we have to narrow down it and broaden it. So we need a lot of knowledge altogether. So it's not just ClearIAS.",
+                        "order":5,
+                        "codes":["Habits", "Workarounds"]
+                    },
+                    {
+                        "question":"Given that you’re also enrolled at uFaber, how helpful are its assignments compared to ClearIAS?",
+                        "answer":"Assignments are quite effective, because they focus on you know, just not just note-making, what to emphasize on the knowledge and how to present it all together. So assignment writing is helpful, but at times, it is draining as well. Because they assign multiple questions in a single day. And then if my class is pre-poned, they would require me to submit beforehand. We get two days to analyze, research, to come up with the answer to everything.",
+                        "order":6,
+                        "codes":["Benefits", "Challenges"]
+                    },
+                    {
+                        "question":"So now let's talk about your online dashboard for uFaber. Can you request to attend a class on a new topic or like request information on a topic again?",
+                        "answer":"It goes both ways. Like we can you ask for a new topic as well as the previous one as well. If required. The attendance record over there, which hardly works... is a segment I will say is not adding any value because it is not being updated since ages.",
+                        "order":7,
+                        "codes":["Challenges"]
+                    },
+                    {
+                        "question":"Would you say you prefer to find your own process of learning and be less dependent on your teacher?",
+                        "answer":"Yes, that is my point because I believe that teachers do know, they're here and have expertise in that but at times, that is outdated as well. Because even this as a story... uh.... When I was in... like, I started looking on the internet from the very beginning of fifth standard itself. In the sixth standard I had this English teacher. So what I used to do, I was very keen on studying literature anyway, and there was storytelling. So what I used to do, I read that I used to go through the chapter before and then solve the answers on my own. So whenever in the class he used to ask the question, I was ready with the answer. With proper grammar and everything, and then she started poking me because I was a bit on the heavy side and she was a bit narcissistic personality. Yeah, she used to bring me down by, you know, name calling me. And then giving me low scores. Once she simply you know cancelled my two answer sheets and then reflected it as she considered 'over answering' or you know she just.. it skipped kept her mind and then she made her personal stories like, I have two kids. They keep on crying and my husband is this and that.' And that was a huge class. So that was a point when I literally kept the teachers on a lower pedestal, like bit on the lower pedestal because earlier it was like our teacher used to say that was something that could not be you know, shifted or we question it. So that's where it started.",
+                        "order":8,
+                        "codes":["Challenges", "Influencers & Guides"]
+                    },
+                    {
+                        "question":"Do you feel like your teacher in school did not appreciate your effort to go outside the textbook?",
+                        "answer":"It wasn't about appreciation at all. She was pulling me down. That was very difficult time for me. And they were few teachers who were supportive because they knew what kind of student I was. But then they was a whole other side side of the story as well.",
+                        "order":9,
+                        "codes":["Challenges", "Emotions & Affects"]
+                    },
+                    {
+                        "question":"Do you prefer to do self-study where you have your own pace of moving forward?",
+                        "answer":"Yeah, that is my unique style. Like if I go for coaching or even for a combined class or group study, then we all prefer one pathway to crack a particular post. Otherwise I studied on my own I have my unique way of grasping things. And you know, dividing the potions, so that is something which made me excel. Even for my entrance. The whole bunch of my classes studying together and there... There was I was studying on my own. Apart from that group, without any guidance or anyway it was just one feature. You used to take my mock interviews and used to guide me just before my final interview. But I covered everything on my own. And I excelled in it. So that is something I consider which works for me.",
+                        "order":10,
+                        "codes":["Benefits", "Workarounds"]
+                    },
+                    {
+                        "question":"How did you decide to reduce your reliance on others for studying?",
+                        "answer":"Okay, so for that I have another incident, okay. During my fifth standard, only. My mom was not keeping. Well, she was hospitalised and we have three siblings. So my dad assigned us a tutor. So what she used to do as she used to beat my younger siblings. And that is when I started teaching them. While studying on my own, I was a very average student back then. Like in the standard, mom to take care of us and we had tuition teacher, but at that point, I promised my dad 'Ki main khud se padhungi. Aap tutor hatado. Apne bhaiyon ko bhi khud padhana.' (Trans.: I’ll study on my own. Please get rid of the tutor. I’ll teach my brothers too.) And that actually reflected in my academics. I scored quite well after that. So that was another transition phase.",
+                        "order":11,
+                        "codes":["Stimulus Milestone"]
+                    },
+                    {
+                        "question":"How do you feel when you're not able to get answers to your doubts or if a solution takes too much time?",
+                        "answer":"Usually, this happens to me when I'm very burnt out, or I'm very drained. And it is very difficult for me to grasp concepts at that point. And doubt arises from the doubt. Yeah, so this is the point when I hold on for a minute, meditate for some time and take a nap or something like that. And take that doubt on the very next day. Not on the same day. I wait out and then try over it again. Because that is when I can actually get on to new perspective. I don’t get anxious but irritated yes.",
+                        "order":12,
+                        "codes":["Challenges", "Emotions & Affects"]
+                    },
+                    {
+                        "question":"Do you feel the need for additional mentorship? ",
+                        "answer":"I don't think there is a need for additional mentorship because we have thorough content on internet itself. Like for the motivation, also, we have... the... iconic people, the idols giving their speeches, the TED Talks, and everything is there, so.. But you can't reach out to them.So for the questions, I would say reach out to them on LinkedIn, that is much better than going for a webinar, because for a webinar, we would have to take out extra time. Whereas I can watch a video at 12. So that something which should be taken whenever required. Not a mandatory kind of a thing.",
+                        "order":13,
+                        "codes":["Workarounds"]
+                    },
+                    {
+                        "question":"What do you think is not working or is missing from online classes?",
+                        "answer":"Missing would be the personal touch, I would say. Because even if we have mentorship program, they have tons of students, which they have to you know, cater to their personal needs. So there... at times something which pisses me off is if we have covered a particular portion. And next day, we have a question on the session. Yeah, right. My mentor, she asked me questions, and I need to answer that. And she goes back to four days previous' questions. She's like, 'Accha, tumne yeh toh nahi kiya tha na?' (Trans.: Ah, you haven’t done this, have you?) And then I have to remind 'Ma'am, we have already done this.' So that lack of personal touch is something...",
+                        "order":14,
+                        "codes":["Challenges", "Emotions & Affects"]
+                    },
+                    {
+                        "question":"Is there anything that can make the online learning experience better? ",
+                        "answer":"There should be a proper track report, I would say because, you know, a particular teacher is taking this one subject and every subject is correlated to the another one. So if they have a fixed database, then every teacher would know, like, this student has capicity to, you know, grasp this much in this particular domain. So that was something like a chat feature? Is that what you saying? Not exactly the chat feature, but the... uh... report card kind of thing.Like on one-on-one call, they will give proper feedback, like what is wrong, what is right. But for the documentation part that there is no proper format for it. So no report card kind of a thing.",
+                        "order":15,
+                        "codes":["Challenges", "Imagined Futures"]
+                    },
+                    {
+                        "question":"In addition to proper reporting, what else do you wish your current platform offered?",
+                        "answer":"To add on a counsellor on board because... uh... at times, whenever we are frustrated, or you know, drained out, we need somebody to talk to and if we have an experienced person, that will actually help other than the friend and a mentor.",
+                        "order":16,
+                        "codes":["Imagined Futures"]
+                    },
+                    {
+                        "question":"Why do you think having a counsellor is helpful?",
+                        "answer":"Having a counsellor is helpful with this is, you know, you're getting professional help out there. Like, if I don't... if I have an issue with my mentor, like she's not keeping a track of my performance, I cannot go in tell her. I cannot reach out to the authorities altogether. And even if I share it with my friends, they then do put it forward like baat baat mein batadena. Sideline karke hota rehta hai. (Trans.: Pointing everything out, snitching, or sidelining the real issues.) But if we have a counsellor on board they would take charge at least. They would bridge the gap between the authorities and the students or the teachers because the counselor could be in contact with teachers as well. I'm not able to convey my problem directly to them. I will have a medium to convey it indirectly.",
+                        "order":17,
+                        "codes":["Benefits"]
+                    },
+                    {
+                        "question":"How do you deal with the pressure of prepping for a competitive exam? ",
+                        "answer":"Whenever things go smoothly I'm motivated to even study for extra hours. Whereas if things are messed up and not going well. Then I try to cut it right there, take a break, and then bounce back on to the things.I am very much into this Mahatma Gandhi's quote: be the change your wish to see in the world. Right at the moment, wherever things like this come to my mind, like, whether it's worth it, whether I would be able to make it or not. So the only thing I remind myself is I have to be that change. And even if I'm not that change yet, I have to keep trying to be that some day.",
+                        "order":18,
+                        "codes":["Emotions & Affects"]
+                    },
+                    {
+                        "question":"You communicate with your friends or classmates on Telegram. Was it suggested by uFaber?",
+                        "answer":"Yes, they because they switch the group on the Telegram, and we all were shifted over there. So we had to we have a total community kind of. To discuss and talk about stuff. I think Telegram is a much better option altogether, because usually the WhatsApp have this family group thing. And the friends thing. Whenever I'm in the study more, I just go to Telegram. The authorities have the whole command over there, like if somebody is talking nonsensical, they just remove it and show them a card while telling them what is wrong, and how to hold control over it and nobody is disturbing anybody.",
+                        "order":19,
+                        "codes":["Benefits", "Habits"]
+                    },
+                    {
+                        "question":"Are you part of any other groups or communities other than Telegram? ",
+                        "answer":"I'm a part of Quora groups. And I will write Quora at times so it is quite insightful because everybody share their experience. It is quite refreshing because even if I do not want to study for some time, I can go through all those stuff and gain knowledge because even in Quora people do share knowledge on particular topics over there. So it's similar to reading blogs by you know, grasping altogether.",
+                        "order":20,
+                        "codes":["Benefits", "Habits"]
+                    }
+                ],
+                "pals":[
+                    {
+                        "palId":"PP009"
+                    }
+                ]
+            }
+        ],
+        "studyPals":[
+            {
+                "palId":"PP001",
+                "palName":"Pragya M",
+                "palEmail":"pragadya@gmail.com",
+                "palNumber":"+91 9559768053",
+                "palAge":"22",
+                "palGender":"Woman",
+                "palDOB":"14/12/1999",
+                "hourlyPricing":"150.0",
+                "Which city are you currently based in?":"Lucknow",
+                "What is your current living situation?" : "Living with parents/family members",
+                "Which one of these describes your current relationships status?" : "Single",
+                "What is your most recent level of education?" : "Bachelor's",
+                "What is your employment status?" : "Student"
+            },
+            {
+                "palId":"PP002",
+                "palName":"Ashwin T",
+                "palEmail":"tripathi.ashwin05@gmail.com",
+                "palNumber":"+91 8009492273",
+                "palAge":"",
+                "palGender":"Woman",
+                "palDOB":"",
+                "hourlyPricing":"",
+                "Which city are you currently based in?":"Gandhinagar",
+                "What is your current living situation?" : "Living alone",
+                "Which one of these describes your current relationships status?" : "Single",
+                "What is your most recent level of education?" : "Master's",
+                "What is your employment status?" : "Working Professional"
+            },
+            {
+                "palId":"PP004",
+                "palName":"Neyati B",
+                "palEmail":"neyatibist16@gmail.com",
+                "palNumber":"+91 8979658568",
+                "palAge":"",
+                "palGender":"Woman",
+                "palDOB":"",
+                "hourlyPricing":"",
+                "Which city are you currently based in?":"Dehradun",
+                "What is your current living situation?" : "Living with parents/family members",
+                "Which one of these describes your current relationships status?" : "Single",
+                "What is your most recent level of education?" : "Bachelor's",
+                "What is your employment status?" : "Working Professional"
+            },
+            {
+                "palId":"PP005",
+                "palName":"Anirban",
+                "palEmail":"dstanisad@rediffmail.com",
+                "palNumber":"+91 9614202468",
+                "palAge":"25",
+                "palGender":"Man",
+                "palDOB":"24/7/1996",
+                "hourlyPricing":"150.0",
+                "Which city are you currently based in?":"Durgapur",
+                "What is your current living situation?" : "Living with parents/family members",
+                "Which one of these describes your current relationships status?" : "Single",
+                "What is your most recent level of education?" : "Bachelor's",
+                "What is your employment status?" : "Working Professional"
+            },
+            {
+                "palId":"PP006",
+                "palName":"Hardik N",
+                "palEmail":"hardiknagpal.100899@gmail.com",
+                "palNumber":"+919911392968",
+                "palAge":"22",
+                "palGender":"Man",
+                "palDOB":"10/8/1999",
+                "hourlyPricing":"150.0",
+                "Which city are you currently based in?":"Gurgaon",
+                "What is your current living situation?" : "Living with parents/family members",
+                "Which one of these describes your current relationships status?" : "Single",
+                "What is your most recent level of education?" : "Bachelor's",
+                "What is your employment status?" : "Working Professional"
+            },
+            {
+                "palId":"PP007",
+                "palName":"Abhisek S",
+                "palEmail":"emsabhi@gmail.com",
+                "palNumber":"+91 8839524053",
+                "palAge":"",
+                "palGender":"Man",
+                "palDOB":"",
+                "hourlyPricing":"",
+                "Which city are you currently based in?":"Jabalpur",
+                "What is your current living situation?" : "Living with parents/family members",
+                "Which one of these describes your current relationships status?" : "Single",
+                "What is your most recent level of education?" : "Bachelor's",
+                "What is your employment status?" : "Working Professional"
+            },
+            {
+                "palId":"PP008",
+                "palName":"Sanjay R",
+                "palEmail":"rathoresanjay9645@gmail.com",
+                "palNumber":"+91 8791839025",
+                "palAge":"25",
+                "palGender":"Man",
+                "palDOB":"29/8/1996",
+                "hourlyPricing":"150.0",
+                "Which city are you currently based in?":"Agra",
+                "What is your current living situation?" : "Living with parents/family members",
+                "Which one of these describes your current relationships status?" : "Single",
+                "What is your most recent level of education?" : "Master's",
+                "What is your employment status?" : "Working Professional"
+            },
+            {
+                "palId":"PP009",
+                "palName":"Aayushi G",
+                "palEmail":"ag606412@gmail.com",
+                "palNumber":"+91 9607123618",
+                "palAge":"",
+                "palGender":"Woman",
+                "palDOB":"",
+                "hourlyPricing":"",
+                "Which city are you currently based in?":"Dehradun",
+                "What is your current living situation?" : "Living with parents/family members",
+                "Which one of these describes your current relationships status?" : "In a relationship",
+                "What is your most recent level of education?" : "Master's",
+                "What is your employment status?" : "Student"
+            },
+            {
+                "palId":"PP010",
+                "palName":"Tejaswi CNS",
+                "palEmail":"cnsstejaswi@gmail.com",
+                "palNumber":"+91 7569126852",
+                "palAge":"29",
+                "palGender":"Man",
+                "palDOB":"9/1/1993",
+                "hourlyPricing":"150.0",
+                "Which city are you currently based in?":"Warangal",
+                "What is your current living situation?" : "Living alone",
+                "Which one of these describes your current relationships status?" : "Single",
+                "What is your most recent level of education?" : "Master's",
+                "What is your employment status?" : "Working Professional"
+            },
+            {
+                "palId":"PP011",
+                "palName":"Charu S",
+                "palEmail":"",
+                "palNumber":"+91 9457027364",
+                "palAge":"21",
+                "palGender":"Woman",
+                "palDOB":"2/1/2001",
+                "hourlyPricing":"",
+                "Which city are you currently based in?":"Etawah",
+                "What is your current living situation?" : "Living with parents / family members",
+                "Which one of these describes your current relationships status?" : "Single",
+                "What is your most recent level of education?" : "Bachelor's",
+                "What is your employment status?" : "Student"
+            },
+            {
+                "palId":"PP012",
+                "palName":"Balpreet S",
+                "palEmail":"Singhbalpreetarora@gmail.com",
+                "palNumber":"+91 8588092554",
+                "palAge":"24",
+                "palGender":"Man",
+                "palDOB":"27/10/1997",
+                "hourlyPricing":"",
+                "Which city are you currently based in?":"Gurgaon",
+                "What is your current living situation?" : "Living with parents / family members",
+                "Which one of these describes your current relationships status?" : "Single",
+                "What is your most recent level of education?" : "Master's",
+                "What is your employment status?" : "Working Professional"
+            },
+            {
+                "palId":"PP013",
+                "palName":"Prateek S",
+                "palEmail":"prateeksukhwani2@gmail.com",
+                "palNumber":"",
+                "palAge":"",
+                "palGender":"Man",
+                "palDOB":"",
+                "hourlyPricing":"",
+                "Which city are you currently based in?":"Delhi",
+                "What is your current living situation?" : "Living with a roommate / flatmate",
+                "Which one of these describes your current relationships status?" : "In a relationship",
+                "What is your most recent level of education?" : "Master's",
+                "What is your employment status?" : "Working Professional"
+            },
+            {
+                "palId":"PP015",
+                "palName":"Sumanth N",
+                "palEmail":"sumanthnalluri@gmail.com",
+                "palNumber":"+91 9873292760",
+                "palAge":"29",
+                "palGender":"Man",
+                "palDOB":"22/6/1992",
+                "hourlyPricing":"150.0",
+                "Which city are you currently based in?":"Hyderabad",
+                "What is your current living situation?" : "Living with a roommate / flatmate",
+                "Which one of these describes your current relationships status?" : "Single",
+                "What is your most recent level of education?" : "Master's",
+                "What is your employment status?" : "Student"
+            }
+        ]
+    },
+    {
+        "studyId":"ST002",
+        "studyName":"It Takes a Village",
+        "studyDescription":"Understand the social networking habits of Indian mothers navigating the world of baby care.",
+        "tags":["Mental Health", "Motherhood", "Millenials", "Organic", "Hyperlocal", "Smartphones"],
+        "interestAreas":["Fitness and Wellbeing","Food and Drinks"],
+        "studyTranscripts":[],
+        "studyPals":[]
+    },
+    {
+        "studyId":"ST003",
+        "studyName":"Hunt for Food",
+        "studyDescription":"Explore the effect of the Covid-19 lockdown on eating habits and food consumption choices of urban youngsters (18 - 35 year olds) living in India.",
+        "tags":["Covid Context", "Millenials", "Diet", "Food Delivery", "Hyperlocal"],
+        "interestAreas":["Fitness and Wellbeing","Food and Drinks"],
+        "studyTranscripts":[],
+        "studyPals":[
+            {
+                "palId":"PP008",
+                "palName":"Sanjay R",
+                "palEmail":"rathoresanjay9645@gmail.com",
+                "palNumber":"+91 8791839025",
+                "palAge":"25",
+                "palGender":"Man",
+                "palDOB":"29/8/1996",
+                "hourlyPricing":"150.0",
+                "Which city are you currently based in?":"Agra",
+                "What is your current living situation?" : "Living with parents/family members",
+                "Which one of these describes your current relationships status?" : "Single",
+                "What is your most recent level of education?" : "Master's",
+                "What is your employment status?" : "Working Professional"
+            },
+            {
+                "palId":"PP013",
+                "palName":"Prateek S",
+                "palEmail":"prateeksukhwani2@gmail.com",
+                "palNumber":"",
+                "palAge":"",
+                "palGender":"Man",
+                "palDOB":"",
+                "hourlyPricing":"",
+                "Which city are you currently based in?":"Delhi",
+                "What is your current living situation?" : "Living with a roommate / flatmate",
+                "Which one of these describes your current relationships status?" : "In a relationship",
+                "What is your most recent level of education?" : "Master's",
+                "What is your employment status?" : "Working Professional"
+            }
+        ]
+    },
+    {
+        "studyId":"ST004",
+        "studyName":"Food 2.0",
+        "studyDescription":"Understand the impact of the Covid-19 lockdown on eating habits and food choices of urban Indian Millennials (18 - 35) year olds).",
+        "tags":["Covid Context", "Gen Z", "Millenials", "Food Delivery", "Organic", "Hyperlocal"],
+        "interestAreas":["Technology"],
+        "studyTranscripts":[],
+        "studyPals":[
+            {
+                "palId":"PP008",
+                "palName":"Sanjay R",
+                "palEmail":"rathoresanjay9645@gmail.com",
+                "palNumber":"+91 8791839025",
+                "palAge":"25",
+                "palGender":"Man",
+                "palDOB":"29/8/1996",
+                "hourlyPricing":"150.0",
+                "Which city are you currently based in?":"Agra",
+                "What is your current living situation?" : "Living with parents/family members",
+                "Which one of these describes your current relationships status?" : "Single",
+                "What is your most recent level of education?" : "Master's",
+                "What is your employment status?" : "Working Professional"
+            },
+            {
+                "palId":"PP015",
+                "palName":"Sumanth N",
+                "palEmail":"sumanthnalluri@gmail.com",
+                "palNumber":"+91 9873292760",
+                "palAge":"29",
+                "palGender":"Man",
+                "palDOB":"22/6/1992",
+                "hourlyPricing":"150.0",
+                "Which city are you currently based in?":"Hyderabad",
+                "What is your current living situation?" : "Living with a roommate / flatmate",
+                "Which one of these describes your current relationships status?" : "Single",
+                "What is your most recent level of education?" : "Master's",
+                "What is your employment status?" : "Student"
+            }
+        ]
+    },
+    {
+        "studyId":"ST005",
+        "studyName":"My Digital Life",
+        "studyDescription":"Study targeting participants between the ages 19-60 to track their digital devices and application usage during the Covid-19 pandemic.",
+        "tags":["Technology"],
+        "interestAreas":["Lifestyle","People","Technology"],
+        "studyTranscripts":[],
+        "studyPals":[
+            {
+                "palId":"PP001",
+                "palName":"Pragya M",
+                "palEmail":"pragadya@gmail.com",
+                "palNumber":"+91 9559768053",
+                "palAge":"22",
+                "palGender":"Women",
+                "palDOB":"14/12/1999",
+                "hourlyPricing":"150.0",
+                "Which city are you currently based in?":"Lucknow",
+                "What is your current living situation?" : "Living with parents/family members",
+                "Which one of these describes your current relationships status?" : "Single",
+                "What is your most recent level of education?" : "Bachelor's",
+                "What is your employment status?" : "Student"
+            }
+        ]
+    },
+    {
+        "studyId":"ST006",
+        "studyName":"Oasis",
+        "studyDescription":"Understand the motivations and experiences of playing AR/VR games amongst users aged 20 - 37 years in New York, USA.",
+        "tags":["Gen X", "Millenials", "Smartphones", "Digital Adoption", "Banking"],
+        "interestAreas":["Lifestyle","People","Technology"],
+        "studyTranscripts":[],
+        "studyPals":[]
+    }
+]
